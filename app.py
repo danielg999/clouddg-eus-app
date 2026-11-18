@@ -95,7 +95,7 @@ def home():
     <body>
 
         <header>
-            <h1>Clouddgeus Customer Portal</h1>
+            <h1>Clouddgeus Customer Portal - v1</h1>
         </header>
 
         <main>
