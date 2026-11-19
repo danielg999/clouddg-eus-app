@@ -96,7 +96,7 @@ def home():
     <body>
 
         <header>
-            <h1>Clouddgeus Customer Portal - v1</h1>
+            <h1>Clouddgeus Customer Portal - v2</h1>
         </header>
 
         <main>
@@ -107,6 +107,10 @@ def home():
                     Your application is up and running.
                     This is a simple landing page hosted in Microsoft Azure.
                     More features coming soon!
+                </p>
+
+                <p>
+                    We are working with Azure Container Apps.
                 </p>
 
                 <a href="#" class="button">Get Started</a>
